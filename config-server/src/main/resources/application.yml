@@ -1,0 +1,9 @@
+server:
+  port: 8888
+
+spring:
+  clound:
+    config:
+      server:
+        git:
+          url: https://github.com/DanielRistoff/dio-experts-config.git
